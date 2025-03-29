@@ -1,2 +1,4 @@
 # FinTrust Core
-Developed a FinTrust Core using Java (JDBC) and MySQL, allowing users to manage accounts, transactions, and customer data efficiently. Implemented CRUD operations for account creation, balance inquiries, deposits, withdrawals, and fund transfers. Designed a secure authentication system to prevent unauthorized access. Optimized SQL queries to enhance database performance and retrieval speed.
+A banking management system built with Core Java, JDBC, and MySQL to manage accounts and transactions efficiently.
+- Tech Stack: Core Java, JDBC, MySQL
+- Features: Account creation, transactions, balance check , update 
